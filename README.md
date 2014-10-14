@@ -68,3 +68,7 @@ Universal Rating Visualizer (UVR)
 
 Диаграмма классов
 -----------------
+
+Интерфейс пользователя
+----------------------
+![alt tag](https://raw.githubusercontent.com/UniversalRatingVisualizer/uvr/master/analysis/Interface.png)
